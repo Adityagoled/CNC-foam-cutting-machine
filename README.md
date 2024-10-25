@@ -1,1 +1,0 @@
-# CNC-foam-cutting-machine
